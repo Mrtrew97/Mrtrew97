@@ -67,4 +67,3 @@ This background provided me with a deep understanding of data manipulation, logi
 
 - 🌐 **Portfolio:** [mrtrew97.github.io/personal-portfolio](https://mrtrew97.github.io/personal-portfolio/)
 - 💻 **GitHub:** [github.com/Mrtrew97](https://github.com/Mrtrew97)
-- 📧 **Email:** ecodrvsolutions@gmail.com
