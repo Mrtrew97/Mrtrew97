@@ -3,7 +3,17 @@
 ### 👨‍💻 Full Stack Web Developer
 I am a Full Stack Developer focused on building modern, responsive, and scalable web applications. Passionate about clean code architecture, robust database design, and seamless user experiences using **PHP**, **MySQL**, **JavaScript**, **React**, and **Angular**.
 
-Recently completed the **Full Stack Web Development Programme at Master.D**, building a solid portfolio of 10 practical projects ranging from database modeling and API creation to multi-framework frontend systems.
+Recently completed the **Master.D Full Stack Web Development Programme**, building a portfolio of 10 practical projects covering frontend development, backend engineering, relational databases, and RESTful APIs.
+
+---
+
+## 🌐 Professional Portfolio
+
+Explore my professional portfolio featuring selected projects, technical skills, and a comprehensive overview of my software development journey.
+
+🔗 **Live Portfolio:** [mrtrew97.github.io/personal-portfolio](https://mrtrew97.github.io/personal-portfolio)
+
+💻 **Source Code:** [GitHub Repository](https://github.com/Mrtrew97/personal-portfolio)
 
 ---
 
@@ -12,7 +22,7 @@ Recently completed the **Full Stack Web Development Programme at Master.D**, bui
 ### 🛍️ **NEXBYTE** — Multilingual Full Stack E-Commerce Platform
 > *Capstone Graduation Project for the Master.D Full Stack Web Development Programme.*
 
-**NEXBYTE** is an enterprise-grade e-commerce web application engineered for scalability, localization, and seamless user interaction.
+**NEXBYTE** is a production-inspired full-stack e-commerce web application designed with scalability, localization, and maintainability in mind.
 
 * **Key Features:** Full multilingual support (i18n), dynamic product catalog, secure user authentication & session management, responsive UI/UX, and internal RESTful API architecture.
 * **Tech Stack:** PHP 8 (OOP / DAO Pattern), MySQL, JavaScript (ES6+), Bootstrap 5, HTML5, CSS3.
@@ -20,10 +30,14 @@ Recently completed the **Full Stack Web Development Programme at Master.D**, bui
 
 ---
 
-## 📚 Portfolio & Curriculum Overview
+## 📚 Additional Projects & Learning
 
-### 🎓 [Master.D Full Stack Course Index](https://github.com/Mrtrew97/masterd-fullstack-course)
+### 🎓 Master.D Full Stack Course Repository
+
+🔗 **Repository:** [masterd-fullstack-course](https://github.com/Mrtrew97/masterd-fullstack-course)
+
 Explore my complete learning progression through 10 hands-on practical projects covering:
+
 * **Frontend:** Semantic HTML5, Responsive CSS3, Bootstrap 5, JavaScript (DOM/AJAX), React (Vite), and Angular (Standalone Components & Services).
 * **Backend & Databases:** Relational MySQL Database Modeling (ERD, Views, Triggers), Object-Oriented PHP 8, DAO Pattern, Argon2id security, and RESTful API integrations.
 
@@ -38,7 +52,7 @@ Explore my complete learning progression through 10 hands-on practical projects 
 `PHP 8 (OOP/DAO)` • `MySQL / MariaDB` • `Node.js` • `RESTful APIs` • `JSON / AJAX` • `PDO`
 
 #### **Tools, Practices & Methodologies**
-`Git` • `GitHub` • `VS Code` • `Agile/Kanban` • `SQL Views & ERD` • `Unit Testing (Jasmine/Karma)` • `Web Security (Argon2id, CSRF, XSS Prevention)`
+`Git` • `GitHub` • `GitHub Pages` • `VS Code` • `Agile/Kanban` • `SQL Views & ERD` • `Unit Testing (Jasmine/Karma)` • `Web Security (Argon2id, CSRF, XSS Prevention)`
 
 ---
 
@@ -50,5 +64,7 @@ This background provided me with a deep understanding of data manipulation, logi
 ---
 
 ## 📫 Let's Connect!
-- **GitHub:** [github.com/Mrtrew97](https://github.com/Mrtrew97)
-- **Email:** *ecodrvsolutions@gmail.com*
+
+- 🌐 **Portfolio:** [mrtrew97.github.io/personal-portfolio](https://mrtrew97.github.io/personal-portfolio/)
+- 💻 **GitHub:** [github.com/Mrtrew97](https://github.com/Mrtrew97)
+- 📧 **Email:** ecodrvsolutions@gmail.com
