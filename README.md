@@ -28,6 +28,7 @@ Explore my professional portfolio featuring selected projects, technical skills,
 * **Key Features:** Full multilingual support (i18n), dynamic product catalog, secure user authentication & session management, responsive UI/UX, and internal RESTful API architecture.
 * **Tech Stack:** PHP 8 (OOP / DAO Pattern), MySQL, JavaScript (ES6+), Bootstrap 5, HTML5, CSS3.
 * **Status:** ✅ Completed
+* **Repository:** [🔗 View Repo](https://github.com/Mrtrew97/nexbyte-ecommerce)
 
 ---
 
