@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Bruno Pinto!
 
 ### 👨‍💻 Full Stack Web Developer
-I am a Full Stack Developer focused on building modern, responsive, and scalable web applications. Passionate about clean code architecture, robust database design, and seamless user experiences using **PHP**, **MySQL**, **JavaScript**, **React**, and **Angular**.
+I am a Software Developer focused on building modern web applications and practical solutions with **PHP**, **MySQL**, **JavaScript**, and **Python**. I value clean code, well-structured solutions, and an analytical approach to solving real-world problems.
 
-Recently completed the **Master.D Full Stack Web Development Programme**, building a portfolio of 10 practical projects covering frontend development, backend engineering, relational databases, and RESTful APIs.
+I have completed the **Master.D Full Stack Web Development Programme** and the **Master.D Python Programming Programme**, building practical projects across web development, backend engineering, relational databases, Python applications, and data processing.
 
 ---
 
@@ -29,6 +29,18 @@ Explore my professional portfolio featuring selected projects, technical skills,
 * **Tech Stack:** PHP 8 (OOP / DAO Pattern), MySQL, JavaScript (ES6+), Bootstrap 5, HTML5, CSS3.
 * **Status:** ✅ Completed
 * **Repository:** [nexbyte-ecommerce](https://github.com/Mrtrew97/nexbyte-ecommerce)
+
+
+### 🎬 IMDb Movie Search — Python Movie Search Engine
+> *Capstone Graduation Project for the Master.D Python Programming Programme.*
+
+**IMDb Movie Search** is an interactive movie search application built around a dataset of the 1,000 top-rated IMDb movies, combining data processing, fuzzy matching, multilingual search support, and an interactive Streamlit interface.
+
+* **Final Grade:** 🏆 Coming Soon
+* **Key Features:** Fuzzy movie search with typo tolerance, Portuguese (PT-PT) title equivalences, multilingual interface (PT/EN), dynamic sorting, Grid/Table views, pagination, and URL state persistence.
+* **Tech Stack:** Python, Pandas, RapidFuzz, Streamlit, CSS3, JSON.
+* **Status:** ✅ Completed
+* **Repository:** [imdb-movie-search](https://github.com/Mrtrew97/imdb-movie-search)
 
 ---
 
