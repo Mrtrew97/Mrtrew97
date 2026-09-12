@@ -57,6 +57,18 @@ Explore my complete learning progression through 10 hands-on practical projects 
 
 **Final Course Grade:** 🏆 20/20
 
+
+### 🐍 Master.D Python Programming Course Repository
+
+🔗 **Repository:** [masterd-python-course](https://github.com/Mrtrew97/masterd-python-course)
+
+Explore my practical progression through Python programming, data processing, statistical analysis, data visualization, and Python application development.
+
+* **Python & Data Analysis:** Python, Pandas, NumPy, Statsmodels, Matplotlib, Seaborn, and Scikit-learn.
+* **Python Applications:** PDF manipulation, statistical modelling, machine learning classification, fuzzy search, and interactive Streamlit applications.
+
+**Final Course Grade:** 🏆 **Coming Soon**
+
 ---
 
 ## 🛠️ Tech Stack & Skills
