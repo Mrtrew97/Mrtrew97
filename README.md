@@ -64,18 +64,21 @@ Explore my complete learning progression through 10 hands-on practical projects 
 #### **Frontend Development**
 `HTML5` • `CSS3` • `SCSS` • `JavaScript (ES6+)` • `TypeScript` • `Bootstrap 5` • `React` • `Angular` • `jQuery`
 
-#### **Backend & Database**
-`PHP 8 (OOP/DAO)` • `MySQL / MariaDB` • `Node.js` • `RESTful APIs` • `JSON / AJAX` • `PDO`
+#### **Backend & Programming**
+`PHP 8 (OOP/DAO)` • `Python` • `Node.js` • `RESTful APIs` • `JSON / AJAX` • `PDO`
+
+#### Databases & Data
+`MySQL / MariaDB` • `Pandas` • `Numpy` • `Seaborn` • `Statsmodels` • `SQL Views $ ERD`
 
 #### **Tools, Practices & Methodologies**
-`Git` • `GitHub` • `GitHub Pages` • `VS Code` • `Agile/Kanban` • `SQL Views & ERD` • `Unit Testing (Jasmine/Karma)` • `Web Security (Argon2id, CSRF, XSS Prevention)`
+`Git` • `GitHub` • `GitHub Pages` • `VS Code` • `Agile/Kanban` • `Unit Testing (Jasmine/Karma)` • `Web Security (Argon2id, CSRF, XSS Prevention)`
 
 ---
 
 ## 💡 Background & Engineering Versatility
-Prior to specializing in Full Stack Web Development, I accumulated extensive experience developing custom data tracking systems, automated workflows, and community management bots using **Python**, **JavaScript**, and **Node.js**. 
+My background combines **Full Stack Web Development**, **Python programming**, and technical support, giving me a versatile approach to software development and problem solving.
 
-This background provided me with a deep understanding of data manipulation, logic scripting, and system architecture, which I now apply to full-stack web engineering.
+Through academic and practical projects, I have worked with **PHP**, **JavaScript**, **Python**, **Node.js**, and **SQL**, developing web applications, Python-based solutions, data processing tools, and automated workflows. This combination allows me to approach projects from different perspectives, from backend logic and data handling to application structure and user-facing interfaces.
 
 ---
 
