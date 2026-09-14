@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bruno Pinto!
 
-### 👨‍💻 Full Stack Web Developer
+### 👨‍💻 Full Stack & Python Developer
 I am a Software Developer focused on building modern web applications and practical solutions with **PHP**, **MySQL**, **JavaScript**, and **Python**. I value clean code, well-structured solutions, and an analytical approach to solving real-world problems.
 
 I have completed the **Master.D Full Stack Web Development Programme** and the **Master.D Python Programming Programme**, building practical projects across web development, backend engineering, relational databases, Python applications, and data processing.
