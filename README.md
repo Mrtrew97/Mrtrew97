@@ -36,7 +36,7 @@ Explore my professional portfolio featuring selected projects, technical skills,
 
 **IMDb Movie Search** is an interactive movie search application built around a dataset of the 1,000 top-rated IMDb movies, combining data processing, fuzzy matching, multilingual search support, and an interactive Streamlit interface.
 
-* **Final Grade:** 🏆 Coming Soon
+* **Final Grade:** 🏆 20/20
 * **Key Features:** Fuzzy movie search with typo tolerance, Portuguese (PT-PT) title equivalences, multilingual interface (PT/EN), dynamic sorting, Grid/Table views, pagination, and URL state persistence.
 * **Tech Stack:** Python, Pandas, RapidFuzz, Streamlit, CSS3, JSON.
 * **Status:** ✅ Completed
