@@ -7,16 +7,6 @@ I have completed the **Master.D Full Stack Web Development Programme** and the *
 
 ---
 
-## 🌐 Professional Portfolio
-
-Explore my professional portfolio featuring selected projects, technical skills, and a comprehensive overview of my software development journey.
-
-🔗 **Live Portfolio:** [mrtrew97.github.io/personal-portfolio](https://mrtrew97.github.io/personal-portfolio)
-
-💻 **Source Code:** [GitHub Repository](https://github.com/Mrtrew97/personal-portfolio)
-
----
-
 ## 🚀 Featured Project
 
 ### 🛍️ **NEXBYTE** — Multilingual Full Stack E-Commerce Platform
