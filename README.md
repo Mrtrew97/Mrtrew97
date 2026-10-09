@@ -86,5 +86,4 @@ Through academic and practical projects, I have worked with **PHP**, **JavaScrip
 
 ## 📫 Let's Connect!
 
-- 🌐 **Portfolio:** [mrtrew97.github.io/personal-portfolio](https://mrtrew97.github.io/personal-portfolio/)
 - 💻 **GitHub:** [github.com/Mrtrew97](https://github.com/Mrtrew97)
